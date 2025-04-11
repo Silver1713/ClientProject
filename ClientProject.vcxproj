@@ -131,16 +131,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\FileData.cpp" />
     <ClCompile Include="src\main.cpp" />
-    <ClCompile Include="src\safe_cout.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="include\FileData.hpp" />
-    <ClInclude Include="include\FileManager.hpp" />
-    <ClInclude Include="include\safe_cout.hpp" />
-    <ClInclude Include="include\taskqueue.h" />
-    <ClInclude Include="include\taskqueue.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

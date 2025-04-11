@@ -1,0 +1,2 @@
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\x64\Debug\ClientProject.exe.lastcodeanalysissucceeded
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\ClientProject\x64\Debug\NativeCodeAnalysis.read.1.tlog

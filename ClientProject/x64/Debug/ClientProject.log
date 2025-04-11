@@ -1,1 +1,13 @@
-﻿  ClientProject.vcxproj -> C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\x64\Debug\ClientProject.exe
+﻿  main.cpp
+  ClientProject.vcxproj -> C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\x64\Debug\ClientProject.exe
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\src\main.cpp(113): warning C26495: Variable 'sender_state::window' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\src\main.cpp(113): warning C26495: Variable 'sender_state::seq_base' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\src\main.cpp(113): warning C26495: Variable 'sender_state::seq_sent' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\src\main.cpp(122): warning C26495: Variable 'SocketFileDownloadSender::buffer' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\src\main.cpp(95): warning C26495: Variable 'SocketFileDownload::session_id' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\src\main.cpp(95): warning C26495: Variable 'SocketFileDownload::udp_socket' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\src\main.cpp(95): warning C26495: Variable 'SocketFileDownload::data_size' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\src\main.cpp(95): warning C26495: Variable 'SocketFileDownload::destination_ip_net' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\src\main.cpp(95): warning C26495: Variable 'SocketFileDownload::destination_port_net' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\src\main.cpp(226): warning C26495: Variable 'SocketFileDownloadReceiver::buffer' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\65907\OneDrive\Desktop\Ass_03\ClientProject\src\main.cpp(384): warning C6386: Buffer overrun while writing to 'buffer':  the writable size is '1000' bytes, but '1499' bytes might be written.
