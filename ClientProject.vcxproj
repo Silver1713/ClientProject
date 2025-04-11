@@ -131,25 +131,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\ACK.cpp" />
     <ClCompile Include="src\FileData.cpp" />
     <ClCompile Include="src\main.cpp" />
-    <ClCompile Include="src\NetworkUtility.cpp" />
-    <ClCompile Include="src\Packet.cpp" />
-    <ClCompile Include="src\Receiver.cpp" />
     <ClCompile Include="src\safe_cout.cpp" />
-    <ClCompile Include="src\Sender.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="include\ACK.hpp" />
-    <ClInclude Include="include\CMID.hpp" />
     <ClInclude Include="include\FileData.hpp" />
     <ClInclude Include="include\FileManager.hpp" />
-    <ClInclude Include="include\NetworkUtility.hpp" />
-    <ClInclude Include="include\Packet.hpp" />
-    <ClInclude Include="include\Receiver.hpp" />
     <ClInclude Include="include\safe_cout.hpp" />
-    <ClInclude Include="include\Sender.hpp" />
     <ClInclude Include="include\taskqueue.h" />
     <ClInclude Include="include\taskqueue.hpp" />
   </ItemGroup>
